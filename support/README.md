@@ -4,12 +4,17 @@
 Automatic selection matches the exact device model and three-part kernel
 version, such as `6.6.98`.
 
-Each entry contains only:
+Each entry contains:
 
 - `payloadId` and `displayName`;
 - one or more exact `Build.MODEL` values in `models`;
 - one or more versions in `kernelVersions`;
-- `url` and `size` for the exploit and KernelSU artifacts.
+- `url` and `size` for the exploit and KernelSU artifacts;
+- `firmwareIds`: zero or more Samsung firmware build identifiers (for example
+  `S9380ZCSCCZG1`) that the payload was built from. The field is metadata
+  for traceability and future fine-grained matching; it does not override the
+  model-plus-kernel selection above. An empty array marks a series-level
+  payload that covers multiple regional builds.
 
 An entry may additionally set `requiresFreshP0Session` to `true` when slide
 discovery and exploitation must run in the same payload process. The app then

@@ -10,6 +10,9 @@
       "kernelVersions": [
         "6.6.98"
       ],
+      "firmwareIds": [
+        "S9310ZCSCCZG1"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCSCCZG1/cve-2026-43499-app.so",
         "size": 104128
@@ -27,6 +30,9 @@
       ],
       "kernelVersions": [
         "6.6.98"
+      ],
+      "firmwareIds": [
+        "S9310ZCUBCZF1"
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCUBCZF1/cve-2026-43499-app.so",
@@ -46,6 +52,9 @@
       "kernelVersions": [
         "6.6.98"
       ],
+      "firmwareIds": [
+        "S9310ZCSBCZE1"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCSBCZE1/cve-2026-43499-app.so",
         "size": 104128
@@ -63,6 +72,9 @@
       ],
       "kernelVersions": [
         "6.6.98"
+      ],
+      "firmwareIds": [
+        "S9360ZCSCCZG1"
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa2q-S9360ZCSCCZG1/cve-2026-43499-app.so",
@@ -82,6 +94,9 @@
       "kernelVersions": [
         "6.6.98"
       ],
+      "firmwareIds": [
+        "S9380ZCSCCZG1"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S9380ZCSCCZG1/cve-2026-43499-app.so",
         "size": 104128
@@ -99,6 +114,9 @@
       ],
       "kernelVersions": [
         "6.6.98"
+      ],
+      "firmwareIds": [
+        "S9380ZCUBCZF1"
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S9380ZCUBCZF1/cve-2026-43499-app.so",
@@ -147,6 +165,7 @@
         "SCG32"
       ],
       "kernelVersions": ["6.6.98"],
+      "firmwareIds": [],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
         "size": 104128
@@ -161,6 +180,9 @@
       "displayName": "Galaxy Z Fold 7 | Kernel 6.6.98",
       "models": ["SM-F966U", "SM-F966U1"],
       "kernelVersions": ["6.6.98"],
+      "firmwareIds": [
+        "F966USQU9BZDN"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app.so",
         "size": 111216
@@ -175,6 +197,9 @@
       "displayName": "Galaxy S24 Ultra | Kernel 6.1.145",
       "models": ["SM-S928U"],
       "kernelVersions": ["6.1.145"],
+      "firmwareIds": [
+        "S928USQS6DZF2"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app.so",
         "size": 104128
@@ -189,6 +214,9 @@
       "displayName": "Galaxy S24+ | Kernel 6.1.157",
       "models": ["SM-S926B"],
       "kernelVersions": ["6.1.157"],
+      "firmwareIds": [
+        "S926BXXUEDZDR"
+      ],
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app.so",
@@ -204,6 +232,9 @@
       "displayName": "Galaxy S24 | Kernel 6.1.157",
       "models": ["SM-S921B"],
       "kernelVersions": ["6.1.157"],
+      "firmwareIds": [
+        "S921BXXSFDZE1"
+      ],
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app.so",
@@ -219,6 +250,9 @@
       "displayName": "Galaxy A56 5G | Kernel 6.6.102",
       "models": ["SM-A5660", "SM-A566B", "SM-A566E", "SM-A566S", "SM-A566U1", "SM-A566W"],
       "kernelVersions": ["6.6.102"],
+      "firmwareIds": [
+        "A566EXXSCCZG6"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/essi-A566EXXSCCZG6/cve-2026-43499-app.so",
         "size": 104128
@@ -233,6 +267,9 @@
       "displayName": "Galaxy A36 5G | Kernel 6.6.46",
       "models": ["SM-A366W"],
       "kernelVersions": ["6.6.46"],
+      "firmwareIds": [
+        "A366WVLS3AYG1"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.so",
         "size": 128688
@@ -247,6 +284,9 @@
       "displayName": "Galaxy S23 Ultra | Kernel 5.15.189",
       "models": ["SM-S9180", "SM-S918B", "SM-S918N", "SM-S918Q", "SM-S918U", "SM-S918W", "SM-S918U1"],
       "kernelVersions": ["5.15.189"],
+      "firmwareIds": [
+        "S9180ZHS8FZF5"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app.so",
         "size": 137728
@@ -261,6 +301,9 @@
       "displayName": "Galaxy S24 | Kernel 6.1.157",
       "models": ["SM-S921N"],
       "kernelVersions": ["6.1.157"],
+      "firmwareIds": [
+        "S921NKSSFDZF3"
+      ],
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",

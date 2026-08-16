@@ -433,9 +433,11 @@ depends on symbols trimmed from the target export table.
 
 Add the artifact once to `support/targets-v3.json`, then add every verified
 regional `Build.MODEL` value to `models` and the leading three-part `uname -r`
-value to `kernelVersions`. Kernel suffixes and firmware build identifiers stay
-in the target source and porting notes rather than the runtime support
-manifest. Update artifact sizes, validate the final JSON, and confirm that Root
+value to `kernelVersions`. Record the firmware build identifier(s) this payload
+was built from in `firmwareIds` (leave empty for a series-level payload). The
+runtime selection still matches on model plus kernel version; `firmwareIds` is
+metadata for traceability and future fine-grained matching. Update artifact
+sizes, validate the final JSON, and confirm that Root
 My Galaxy can parse it before publishing. The minimal fields are documented in
 [`../support/README.md`](../support/README.md).
 
