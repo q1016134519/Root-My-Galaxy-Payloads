@@ -3,7 +3,7 @@
   "payloads": [
     {
       "payloadId": "pa1q-S9310ZCSCCZG1",
-      "displayName": "Galaxy S25 (China) | Kernel 6.6.98",
+      "displayName": "Galaxy S25 (China) S9310ZCSCCZG1 | Kernel 6.6.98",
       "models": [
         "SM-S9310"
       ],
@@ -20,8 +20,44 @@
       }
     },
     {
+      "payloadId": "pa1q-S9310ZCUBCZF1",
+      "displayName": "Galaxy S25 (China) S9310ZCUBCZF1 | Kernel 6.6.98",
+      "models": [
+        "SM-S9310"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCUBCZF1/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
+    },
+    {
+      "payloadId": "pa1q-S9310ZCSBCZE1",
+      "displayName": "Galaxy S25 (China) S9310ZCSBCZE1 | Kernel 6.6.98",
+      "models": [
+        "SM-S9310"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCSBCZE1/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
+    },
+    {
       "payloadId": "pa2q-S9360ZCSCCZG1",
-      "displayName": "Galaxy S25+ (China) | Kernel 6.6.98",
+      "displayName": "Galaxy S25+ (China) S9360ZCSCCZG1 | Kernel 6.6.98",
       "models": [
         "SM-S9360"
       ],
@@ -39,7 +75,7 @@
     },
     {
       "payloadId": "pa3q-S9380ZCSCCZG1",
-      "displayName": "Galaxy S25 Ultra (China) | Kernel 6.6.98",
+      "displayName": "Galaxy S25 Ultra (China) S9380ZCSCCZG1 | Kernel 6.6.98",
       "models": [
         "SM-S9380"
       ],
@@ -48,6 +84,24 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S9380ZCSCCZG1/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
+    },
+    {
+      "payloadId": "pa3q-S9380ZCUBCZF1",
+      "displayName": "Galaxy S25 Ultra (China) S9380ZCUBCZF1 | Kernel 6.6.98",
+      "models": [
+        "SM-S9380"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa3q-S9380ZCUBCZF1/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {

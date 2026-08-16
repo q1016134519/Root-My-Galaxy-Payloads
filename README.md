@@ -16,8 +16,11 @@ It intentionally does not contain Android application source code.
 | Payload | Compatible models | Kernel version | Status |
 | --- | --- | --- | --- |
 | `pa1q-S9310ZCSCCZG1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
+| `pa1q-S9310ZCUBCZF1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
+| `pa1q-S9310ZCSBCZE1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
 | `pa2q-S9360ZCSCCZG1` | Galaxy S25+ (China) `SM-S9360` | `6.6.98` | Firmware-built, device test pending |
 | `pa3q-S9380ZCSCCZG1` | Galaxy S25 Ultra (China) `SM-S9380` | `6.6.98` | Firmware-built, device test pending |
+| `pa3q-S9380ZCUBCZF1` | Galaxy S25 Ultra (China) `SM-S9380` | `6.6.98` | Firmware-built, device test pending |
 | `galaxy-s25-series-2026-06-07` | Galaxy S25, S25+, S25 Edge, and S25 Ultra regional models | `6.6.98` | Device-tested |
 | `e3q-S928USQS6DZF2` | Galaxy S24 Ultra `SM-S928U` | `6.1.145` | Hardware debugging in progress |
 | `e2s-S926BXXUEDZDR` | Galaxy S24+ `SM-S926B` | `6.1.157` | Device-tested |
