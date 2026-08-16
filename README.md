@@ -15,6 +15,9 @@ It intentionally does not contain Android application source code.
 
 | Payload | Compatible models | Kernel version | Status |
 | --- | --- | --- | --- |
+| `pa1q-S9310ZCSCCZG1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
+| `pa2q-S9360ZCSCCZG1` | Galaxy S25+ (China) `SM-S9360` | `6.6.98` | Firmware-built, device test pending |
+| `pa3q-S9380ZCSCCZG1` | Galaxy S25 Ultra (China) `SM-S9380` | `6.6.98` | Firmware-built, device test pending |
 | `galaxy-s25-series-2026-06-07` | Galaxy S25, S25+, S25 Edge, and S25 Ultra regional models | `6.6.98` | Device-tested |
 | `e3q-S928USQS6DZF2` | Galaxy S24 Ultra `SM-S928U` | `6.1.145` | Hardware debugging in progress |
 | `e2s-S926BXXUEDZDR` | Galaxy S24+ `SM-S926B` | `6.1.157` | Device-tested |
@@ -80,5 +83,12 @@ The SM-S926B DZDR analysis and device-validation record is in
 [`docs/SM-S926B-S926BXXUEDZDR.md`](docs/SM-S926B-S926BXXUEDZDR.md).
 The SM-A366W AYG1 device validation is in
 [`docs/SM-A366W-A366WVLS3AYG1.md`](docs/SM-A366W-A366WVLS3AYG1.md).
+The six China (CHC) S25-series firmware records are in
+[`docs/SM-S9310-S9310ZCSBCZE1.md`](docs/SM-S9310-S9310ZCSBCZE1.md),
+[`docs/SM-S9310-S9310ZCUBCZF1.md`](docs/SM-S9310-S9310ZCUBCZF1.md),
+[`docs/SM-S9310-S9310ZCSCCZG1.md`](docs/SM-S9310-S9310ZCSCCZG1.md),
+[`docs/SM-S9360-S9360ZCSCCZG1.md`](docs/SM-S9360-S9360ZCSCCZG1.md),
+[`docs/SM-S9380-S9380ZCUBCZF1.md`](docs/SM-S9380-S9380ZCUBCZF1.md), and
+[`docs/SM-S9380-S9380ZCSCCZG1.md`](docs/SM-S9380-S9380ZCSCCZG1.md).
 
 Use only on devices you own or are explicitly authorized to test.
