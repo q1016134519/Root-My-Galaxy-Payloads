@@ -65,6 +65,27 @@
       }
     },
     {
+      "payloadId": "pa1q-S9310ZCUACZDP",
+      "displayName": "Galaxy S25 (China) S9310ZCUACZDP | Kernel 6.6.98",
+      "models": [
+        "SM-S9310"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
+      "firmwareIds": [
+        "S9310ZCUACZDP"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S9310ZCUACZDP/cve-2026-43499-app.so",
+        "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
+    },
+    {
       "payloadId": "pa2q-S9360ZCSCCZG1",
       "displayName": "Galaxy S25+ (China) S9360ZCSCCZG1 | Kernel 6.6.98",
       "models": [

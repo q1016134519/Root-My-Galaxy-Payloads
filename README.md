@@ -18,6 +18,7 @@ It intentionally does not contain Android application source code.
 | `pa1q-S9310ZCSCCZG1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
 | `pa1q-S9310ZCUBCZF1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
 | `pa1q-S9310ZCSBCZE1` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
+| `pa1q-S9310ZCUACZDP` | Galaxy S25 (China) `SM-S9310` | `6.6.98` | Firmware-built, device test pending |
 | `pa2q-S9360ZCSCCZG1` | Galaxy S25+ (China) `SM-S9360` | `6.6.98` | Firmware-built, device test pending |
 | `pa3q-S9380ZCSCCZG1` | Galaxy S25 Ultra (China) `SM-S9380` | `6.6.98` | Firmware-built, device test pending |
 | `pa3q-S9380ZCUBCZF1` | Galaxy S25 Ultra (China) `SM-S9380` | `6.6.98` | Firmware-built, device test pending |
@@ -86,8 +87,9 @@ The SM-S926B DZDR analysis and device-validation record is in
 [`docs/SM-S926B-S926BXXUEDZDR.md`](docs/SM-S926B-S926BXXUEDZDR.md).
 The SM-A366W AYG1 device validation is in
 [`docs/SM-A366W-A366WVLS3AYG1.md`](docs/SM-A366W-A366WVLS3AYG1.md).
-The six China (CHC) S25-series firmware records are in
+The seven China (CHC) S25-series firmware records are in
 [`docs/SM-S9310-S9310ZCSBCZE1.md`](docs/SM-S9310-S9310ZCSBCZE1.md),
+[`docs/SM-S9310-S9310ZCUACZDP.md`](docs/SM-S9310-S9310ZCUACZDP.md),
 [`docs/SM-S9310-S9310ZCUBCZF1.md`](docs/SM-S9310-S9310ZCUBCZF1.md),
 [`docs/SM-S9310-S9310ZCSCCZG1.md`](docs/SM-S9310-S9310ZCSCCZG1.md),
 [`docs/SM-S9360-S9360ZCSCCZG1.md`](docs/SM-S9360-S9360ZCSCCZG1.md),
