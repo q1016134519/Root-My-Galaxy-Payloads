@@ -148,12 +148,37 @@
         "size": 6407096
       }
     },
-   
+    {
+      "payloadId": "psq-S9370ZCS9CZG1",
+      "displayName": "Galaxy S25 Edge | Kernel 6.6.98",
+      "models": [
+        "SM-S9370"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
+      "firmwareIds": [
+        "S9370ZCS9CZG1"
+      ],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app.so",
+        "size": 125264
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/q1016134519/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
+    },
     {
       "payloadId": "q7q-F966USQU9BZDN",
       "displayName": "Galaxy Z Fold 7 | Kernel 6.6.98",
-      "models": ["SM-F966U", "SM-F966U1"],
-      "kernelVersions": ["6.6.98"],
+      "models": [
+        "SM-F966U",
+        "SM-F966U1"
+      ],
+      "kernelVersions": [
+        "6.6.98"
+      ],
       "firmwareIds": [
         "F966USQU9BZDN"
       ],
@@ -169,8 +194,12 @@
     {
       "payloadId": "e3q-S928USQS6DZF2",
       "displayName": "Galaxy S24 Ultra | Kernel 6.1.145",
-      "models": ["SM-S928U"],
-      "kernelVersions": ["6.1.145"],
+      "models": [
+        "SM-S928U"
+      ],
+      "kernelVersions": [
+        "6.1.145"
+      ],
       "firmwareIds": [
         "S928USQS6DZF2"
       ],
@@ -186,8 +215,12 @@
     {
       "payloadId": "e2s-S926BXXUEDZDR",
       "displayName": "Galaxy S24+ | Kernel 6.1.157",
-      "models": ["SM-S926B"],
-      "kernelVersions": ["6.1.157"],
+      "models": [
+        "SM-S926B"
+      ],
+      "kernelVersions": [
+        "6.1.157"
+      ],
       "firmwareIds": [
         "S926BXXUEDZDR"
       ],
@@ -204,8 +237,12 @@
     {
       "payloadId": "e1s-S921BXXSFDZE1",
       "displayName": "Galaxy S24 | Kernel 6.1.157",
-      "models": ["SM-S921B"],
-      "kernelVersions": ["6.1.157"],
+      "models": [
+        "SM-S921B"
+      ],
+      "kernelVersions": [
+        "6.1.157"
+      ],
       "firmwareIds": [
         "S921BXXSFDZE1"
       ],
@@ -222,8 +259,17 @@
     {
       "payloadId": "essi-A566EXXSCCZG6",
       "displayName": "Galaxy A56 5G | Kernel 6.6.102",
-      "models": ["SM-A5660", "SM-A566B", "SM-A566E", "SM-A566S", "SM-A566U1", "SM-A566W"],
-      "kernelVersions": ["6.6.102"],
+      "models": [
+        "SM-A5660",
+        "SM-A566B",
+        "SM-A566E",
+        "SM-A566S",
+        "SM-A566U1",
+        "SM-A566W"
+      ],
+      "kernelVersions": [
+        "6.6.102"
+      ],
       "firmwareIds": [
         "A566EXXSCCZG6"
       ],
@@ -239,8 +285,12 @@
     {
       "payloadId": "a36xq-A366WVLS3AYG1",
       "displayName": "Galaxy A36 5G | Kernel 6.6.46",
-      "models": ["SM-A366W"],
-      "kernelVersions": ["6.6.46"],
+      "models": [
+        "SM-A366W"
+      ],
+      "kernelVersions": [
+        "6.6.46"
+      ],
       "firmwareIds": [
         "A366WVLS3AYG1"
       ],
@@ -256,8 +306,18 @@
     {
       "payloadId": "dm3q-S9180ZHS8FZF5",
       "displayName": "Galaxy S23 Ultra | Kernel 5.15.189",
-      "models": ["SM-S9180", "SM-S918B", "SM-S918N", "SM-S918Q", "SM-S918U", "SM-S918W", "SM-S918U1"],
-      "kernelVersions": ["5.15.189"],
+      "models": [
+        "SM-S9180",
+        "SM-S918B",
+        "SM-S918N",
+        "SM-S918Q",
+        "SM-S918U",
+        "SM-S918W",
+        "SM-S918U1"
+      ],
+      "kernelVersions": [
+        "5.15.189"
+      ],
       "firmwareIds": [
         "S9180ZHS8FZF5"
       ],
@@ -273,8 +333,12 @@
     {
       "payloadId": "e1s-S921NKSSFDZF3",
       "displayName": "Galaxy S24 | Kernel 6.1.157",
-      "models": ["SM-S921N"],
-      "kernelVersions": ["6.1.157"],
+      "models": [
+        "SM-S921N"
+      ],
+      "kernelVersions": [
+        "6.1.157"
+      ],
       "firmwareIds": [
         "S921NKSSFDZF3"
       ],
